@@ -76,6 +76,25 @@ I believe in mastering engineering fundamentals through:
 - Continually refining Spark, SQL, and cloud engineering skills  
 
 ---
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Databricks-Fundamentals-red?style=flat-square&logo=databricks" />
+  <img src="https://img.shields.io/badge/Databricks-Spark%203.0%20Developer-red?style=flat-square&logo=databricks" />
+  <img src="https://img.shields.io/badge/Google-AI%20Essentials-blue?style=flat-square&logo=google" />
+  <img src="https://img.shields.io/badge/MongoDB-DF100-green?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MongoDB-DF200-green?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MongoDB-DF300-green?style=flat-square&logo=mongodb" />
+  <img src="https://img.shields.io/badge/AWS-Developer%20Associate-orange?style=flat-square&logo=amazonaws" />
+</p>
+
+- **Databricks Certified Associate Developer for Apache Spark 3.0** [View Credential](https://credentials.databricks.com/fd3ff225-703e-4234-be36-f9f1de39d2fb#acc.FybRgYvX)
+- **Google AI Essentials**  [View Credential](https://www.coursera.org/account/accomplishments/verify/TE544LHNWHIU)
+- **MongoDB Developer Fundamentals (DF100)**  [View Credential](https://www.credly.com/badges/0fff8ff6-da88-4cc5-bf24-ba2978cb3230/linked_in_profile)
+- **MongoDB Optimizing Storage and Retrieval (DF200)**  [View Credential](https://www.credly.com/badges/41669209-25a8-433a-92e7-2b73a54c6805/linked_in_profile)
+- **MongoDB Schema Design & Advanced Features (DF300)**  [View Credential](https://www.credly.com/badges/af337bd6-bf5a-44d2-9f8a-0c55315738f8/linked_in_profile)
+- **AWS Certified Developer – Associate** *(expired Jan 2025)*  [View Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/74WR6WHDNBFQQEKJ)
+
 
 ## 📬 Let’s Connect  
 Open to collaborating on data engineering practice, PySpark optimization, open-source ideas, and clean pipeline design.

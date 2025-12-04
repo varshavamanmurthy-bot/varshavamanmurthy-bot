@@ -88,6 +88,7 @@ I believe in mastering engineering fundamentals through:
   <img src="https://img.shields.io/badge/AWS-Developer%20Associate-orange?style=flat-square&logo=amazonaws" />
 </p>
 
+- **Databricks Fundamentals** [View Credential](https://credentials.databricks.com/b9d1a3c7-1d1f-431a-8fff-93849ac1eb06#acc.YEujlLP1)
 - **Databricks Certified Associate Developer for Apache Spark 3.0** [View Credential](https://credentials.databricks.com/fd3ff225-703e-4234-be36-f9f1de39d2fb#acc.FybRgYvX)
 - **Google AI Essentials**  [View Credential](https://www.coursera.org/account/accomplishments/verify/TE544LHNWHIU)
 - **MongoDB Developer Fundamentals (DF100)**  [View Credential](https://www.credly.com/badges/0fff8ff6-da88-4cc5-bf24-ba2978cb3230/linked_in_profile)
